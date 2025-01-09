@@ -1,3 +1,17 @@
+103.133.223.50,2096,ID,Cloud Teknologi Nusantara
+103.168.146.169,20132,ID,Herza.ID
+43.133.145.156,53136,ID,Tencent cloud computing
+172.232.239.249,587,ID,Akamai Connected Cloud
+35.219.50.99,443,ID,Google Cloud
+43.218.77.16,1443,ID,Amazon.com
+203.194.112.119,8443,ID,First Cagayan Converge Data Center Inc.
+103.133.223.51,2096,ID,Cloud Teknologi Nusantara
+172.232.239.147,587,ID,Akamai Connected Cloud
+103.133.223.52,2096,ID,Cloud Teknologi Nusantara
+172.232.239.151,587,ID,Akamai Connected Cloud
+203.194.112.119,2053,ID,First Cagayan Converge Data Center Inc.
+172.232.231.24,587,ID,Akamai Connected Cloud
+8.218.107.145,31166,ID,PT Deneva
 45.89.230.50,31599,AE,LLC Baxet
 109.61.42.167,6633,AE,G-Core Labs SA
 176.125.231.110,443,AE,M247 Europe
